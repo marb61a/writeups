@@ -19,10 +19,11 @@ Module 2 : Cyber Security Risk Management</h1><br/>
    - industry- specific regulations, and best practice standards.
 
 <br />
-<h1><p align=center>Module 3 : Cyber Security Audit </h1><br/
+<h1><p align=center>Module 3 : Cyber Security Audit </h1><br/>
 
  - The following are possible questions that should be asked:
-Confidentiality:
+
+<h3><p align=center>Confidentiality:</h3></br>
 
 Who have access to the word document?
 
@@ -37,7 +38,7 @@ Are there restrictions in place to prevent copying this file to a USB flash driv
 Are there controls in place to prevent individuals from uploading this file to a website or sending it over as an attachment in an email?
 
 
-Integrity
+<h3><p align=center>Integrity</h3><br/>
 
 Do you have regular backups of this file? If yes, have you tested those backups?
 
@@ -46,7 +47,7 @@ Do you have controls in place to prevent modifying the file?
 Is there a version control system in place to track changes made to the document?
 
 
-Availability
+<h3><p align=center>Availability</h3><br/>
 
 
 Does Oscorp have high availability solutions in place? If yes, is this document stored on a high available system?
@@ -55,10 +56,25 @@ Did this system undergo disaster recovery testing?
 
 Do you have accurate backups of this file in case it gets lost?
 
-Module 3 : 
-Practical Case Study: Three Lines of Defence
-Module 4 : Asset Management
-Module 5 : Identity and Access Management (IAM)
+
+<br />
+<h1><p align=center>Module 4 : Cyber Security Audit</h3><br/> 
+
+Following the three lines of defence model, you can propose the following:
+
+Line 1: The cyber security team can perform regular self-audits to ensure that they identify and documents any gaps that they discover.
+
+Line 2: As you've learned in the course, finding individuals who understand GRC and auditing is challenging. You propose that Oscorp hires a full time Cyber Security Auditor to perform Line 2 audits. 
+
+Line 3 (Internal Audit): Oscorp current internal audit team does not include anyone who can perform cyber security audits (because they're financial auditors). You can propose that Oscorp hires your 
+firm as their internal auditors. Your consulting firm can create an internal audit program for Oscorp that focuses on testing cyber security controls.
+
+
+<br />
+<h1><p align=center>Module 5 : Identity and Access Management (IAM)</h3><br/>
+
+
+
 Module 6 : Security Education and Awareness
 Practical Case Study: Security Education and Awareness
 Module 7 : Data Security and Data Loss Protection (DLP)
@@ -70,3 +86,6 @@ Capstone Project: Cyber Security Program using the NIST Framework
 ISO 27001 Lead Auditor Training
 
 Bonus : Getting hired as a GRC Professional
+
+Professional advice on being hired to a GRC (Or any) position
+
